@@ -1,0 +1,1 @@
+# Desafio de Ransomware da Formação Cybersecurity Specialist da DIO
